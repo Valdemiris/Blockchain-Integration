@@ -1,20 +1,23 @@
 {
-  "name": "blockchainintegration", 
-  "version": "1.0.0", 
-  "description": "by valdemiris", 
+  "name": "blockchainintegrationbyvaldemiris",
+  "version": "1.0.1",
+  "description": "by valdemiris",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "" 
+    "url": "https://github.com/Valdemiris/Blockchain-Integration.git"
   },
-  "keywords": [ 
-    "", 
+  "keywords": [
+    "",
     "",
     ""
   ],
-  "author": "", 
-  "license": "MIT"
+  "author": "Valdemiris",
+  "license": "MIT",
+  "dependencies": {
+    "geolocationhelpervaldemiris": "^1.0.1"
+  }
 }
